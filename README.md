@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently student at **Istanbul Gelisim University.**
 
-- 🌱 I’m currently learning **UIKit and SwiftUI**
+- 🌱 I’m currently learning **UIKit,SwiftUI and React Native**
 
 - 💬 You can ask me anything by **Email**
 
-- 📫 How to reach me **u.ylcn57@gmail.com**
+- 📫 How to reach me **theumutyalcin@gmail.com**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
