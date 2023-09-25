@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutylcn&label=Profile%20views&color=0e75b6&style=flat" alt="umutylcn" /> </p>
 
-- 🌱 I’m currently learning **UIKit,SwiftUI and React Native**
+- 🌱 I’m currently learning **UIKit,SwiftUI and Flutter**
 
 - 💬 You can ask me anything by **Email**
 
