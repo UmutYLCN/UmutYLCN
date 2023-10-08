@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=umutylcn&label=Profile%20views&color=0e75b6&style=flat" alt="umutylcn" /> 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umut+Yalçın+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umut+Yalçın+!;+I'm+iOS+Developer;" />
 </h1>
 
 <h2 align="left">About Me</h2>
@@ -26,7 +26,6 @@
 </div>
 
 <br><br/>
-<br></br>
 <h2 align="left">Languages and Tools:</h2>
 <div align="center">
   <h3 align="center">Mobile</h3>
@@ -36,7 +35,7 @@
 </div>
 
 <br><br/>
-<br><br/>
+
 <h2 align="left">⚡ Stats </h2>
 <div align=center>
 <br><br/>
