@@ -4,13 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umut+Yalçın+!;" />
 </h1>
 
-<h2 align="center">iOS Developer</h2>
+<h2 align="left">About Me</h2>
 
 <div>
+    
 - 🌱 I’m currently learning **UIKit,SwiftUI and Flutter**
-
 - 💬 You can ask me anything by **Email**
-
 - 📫 How to reach me **theumutyalcin@gmail.com**
 
 <div align="left">
