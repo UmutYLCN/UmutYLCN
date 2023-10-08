@@ -25,7 +25,7 @@
 </div>
 </div>
 
-<br><br/>
+
 <h2 align="left">Languages and Tools:</h2>
 <div align="center">
   <h3 align="center">Mobile</h3>
@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vue" />
 </div>
 
-<br><br/>
+
 
 <h2 align="left">⚡ Stats </h2>
 <div align=center>
