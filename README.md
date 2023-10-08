@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=umutylcn&label=Profile%20views&color=0e75b6&style=flat" alt="umutylcn" /> 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umut+Yalçın!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umut+Yalçın+!;" />
 </h1>
 
 <h2 align="center">iOS Developer</h2>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **theumutyalcin@gmail.com**
 
-<div align="center">
+<div align="left">
     <a href="https://linkedin.com/in/umut-yalcin" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
@@ -28,7 +28,7 @@
 
 <br><br/>
 <br></br>
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 <div align="center">
   <h3 align="center">Mobile</h3>
     <img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase,git"/>
@@ -38,7 +38,7 @@
 
 <br><br/>
 <br><br/>
-<h2 align="center">⚡ Stats </h2>
+<h2 align="left">⚡ Stats </h2>
 <div align=center>
 <br><br/>
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=umutylcn&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
