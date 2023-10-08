@@ -15,20 +15,18 @@
 
 <div align="center">
     <a href="https://linkedin.com/in/umut-yalcin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
     <a href="https://www.instagram.com/umutylcnn_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-
-<a href="https://medium.com/@u.ylcn57" target="_blank">
- <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+    <a href="https://medium.com/@u.ylcn57" target="_blank">
+         <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    </a>
 </div>
-  
 </div>
 
-<br>
+<br><br>
 <h2 align="left">Languages and Tools:</h2>
 <br>
 <div align="center">
@@ -40,12 +38,13 @@
 
 
 <h2 align="center">⚡ Stats </h2>
-<br>
+<br><br/>
 <div align=center>
+<br><br/>
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=umutylcn&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br/>
+<br><br/>
 <img width=390 src="https://streak-stats.demolab.com/?user=umutylcn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<br/>
+<br><br/>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutylcn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
