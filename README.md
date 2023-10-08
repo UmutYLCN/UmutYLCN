@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umut+Yalçın!;" />
 </h1>
 
-<h2 align="left">iOS Developer</h2>
+<h2 align="center">iOS Developer</h2>
 
 <div>
 - 🌱 I’m currently learning **UIKit,SwiftUI and Flutter**
@@ -36,9 +36,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vue" />
 </div>
 
+<hr></hr>
 
-<h2 align="center">⚡ Stats </h2>
 <br><br/>
+<h2 align="center">⚡ Stats </h2>
 <div align=center>
 <br><br/>
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=umutylcn&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
