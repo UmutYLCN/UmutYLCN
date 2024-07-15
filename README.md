@@ -4,27 +4,38 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Umut+Yalçın+!;+I'm+iOS+Developer;" />
 </h1>
 
-<h2 align="left">About Me</h2>
-
-<div>
-    
-- 🌱 I’m currently learning **UIKit,SwiftUI and Flutter**
-- 📫 How to reach me **theumutyalcin@gmail.com**
-
-<div align="left">
-    <a href="https://linkedin.com/in/umut-yalcin" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="https://www.instagram.com/umutylcnn_" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://medium.com/@u.ylcn57" target="_blank">
-         <img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-    </a>
-</div>
-</div>
-
-<br><br/>
+### About me
+<p align="left">
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HackerRank-2e3440.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/HackerRank-eceff4.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
+      <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-eceff4.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
+    </picture>
+  </a>&nbsp;
+    <a href="https://www.leetcode.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LeetCode-2e3440.svg?&style=for-the-badge&logo=leetcode&logoColor=2fc966">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/LeetCode-eceff4.svg?&style=for-the-badge&logo=leetcode&logoColor=2fc966">
+      <img alt="leetcode" src="https://img.shields.io/badge/Leetcode-eceff4.svg?&style=for-the-badge&logo=leetcode">
+    </picture>
+  </a>&nbsp;
+    <a href="https://www.medium.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Medium-2e3440.svg?&style=for-the-badge&logo=medium&logoColor=2fc966">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Medium-eceff4.svg?&style=for-the-badge&logo=medium&logoColor=2fc966">
+      <img alt="medium" src="https://img.shields.io/badge/Medium-eceff4.svg?&style=for-the-badge&logo=medium">
+    </picture>
+  </a>&nbsp;
+    <a href="https://stackoverflow.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/StackOverFlow-2e3440.svg?&style=for-the-badge&logo=stackoverflow&logoColor=2fc966">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/StackOverFlow-eceff4.svg?&style=for-the-badge&logo=stackoverflow&logoColor=2fc966">
+      <img alt="stackoverflow" src="https://img.shields.io/badge/StackOverFlow-eceff4.svg?&style=for-the-badge&logo=stackoverflow">
+    </picture>
+  </a>&nbsp;
+</p>
+<hr/>
 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
