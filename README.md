@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=umutylcn&label=Profile%20views&color=0e75b6&style=flat" alt="umutylcn" /> 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umut+Yalçın+!;+I'm+iOS+Developer;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Umut+Yalçın+!;+I'm+iOS+Developer;" />
 </h1>
 
 <h2 align="left">About Me</h2>
@@ -9,7 +9,6 @@
 <div>
     
 - 🌱 I’m currently learning **UIKit,SwiftUI and Flutter**
-- 💬 You can ask me anything by **Email**
 - 📫 How to reach me **theumutyalcin@gmail.com**
 
 <div align="left">
@@ -27,13 +26,20 @@
 
 <br><br/>
 
-<h2 align="left">Languages and Tools:</h2>
-<div align="center">
-  <h3 align="center">Mobile</h3>
-    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase,git"/>
-  <h3 align="center">Web</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vue" />
-</div>
+<h2 align="left">Tech Stack</h2>
+<p align="left">
+<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">
+<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">
+</p>
+
+
+
+<p align="left">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+</p>
 
 
 
