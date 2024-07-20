@@ -53,21 +53,56 @@
 
 <h2 align="left">Tech Stack</h2>
 
+<table>
+  <tr>
+    <td align="center" width="96">
+        <a href="#macropower-tech" target="_blank"> 
+            <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git"/> </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/user-attachments/assets/601dae81-c59f-4d45-8413-c3465f42ef15" width="48" height="48" alt="Swift" />
+      </a>
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
 
-
-
-<p align="left">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-</p>
-
-
-
-<br><br/>
-<div align="center">
-  <img width=390 height="150" src="https://github-readme-stats.vercel.app/api?username=umutylcn&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=umutylcn" height="150" alt="languages graph"  />
-</div>
 
