@@ -57,7 +57,7 @@
   <tr>
     <td align="center" width="96">
         <a href="#macropower-tech" target="_blank"> 
-            <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git"/> </a>
+            <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="60" height="60" alt="git"/> </a>
       <br>Git
     </td>
     <td align="center" width="96">
@@ -68,27 +68,27 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="48" height="48" alt="Firebase" />
       </a>
-      <br>Jsonnet
+      <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://img.icons8.com/?size=100&id=AtQiXKIeJE3T&format=png&color=000000" width="48" height="48" alt="Unreal Engine" />
       </a>
-      <br>TypeScript
+      <br>Unreal Engine
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="48" height="48" alt="Html" />
       </a>
-      <br>Kubernetes
+      <br>Html
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="48" height="48" alt="Css" />
       </a>
-      <br>Docker
+      <br>Css
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
