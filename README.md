@@ -4,8 +4,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Umut+Yalçın+!;+I'm+iOS+Developer;" />
 </h1>
 
-### About me
+<h2 align="left">About Me</h2>
 <p align="left">
+     <a href="https://www.gmail.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-2e3440.svg?&style=for-the-badge&logo=gmail&logoColor=2fc966">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=2fc966">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-eceff4.svg?&style=for-the-badge&logo=gmail&logoColor=2fc966">
+    </picture>
+  </a>&nbsp;
+    <a href="https://www.linkedin.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=2fc966">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=2fc966">
+      <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=2fc966">
+    </picture>
+  </a>&nbsp;
   <a href="https://www.hackerrank.com/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HackerRank-2e3440.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
@@ -35,13 +49,10 @@
     </picture>
   </a>&nbsp;
 </p>
-<hr/>
+
 
 <h2 align="left">Tech Stack</h2>
-<p align="left">
-<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">
-<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">
-</p>
+
 
 
 
